@@ -8,6 +8,7 @@
 [![Current Libraries](https://img.shields.io/badge/libraries-0-red.svg)](http://localhost)
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/WelpNathan/Waterbottle/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg)](https://github.com/WelpNathan/Waterbottle/issues)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FWelpNathan%2FWaterbottleServer.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FWelpNathan%2FWaterbottleServer?ref=badge_shield)
 
 The Roblox HttpService unlocks so many potentials within your game or/and group. The newly created [``HttpService:RequestAsync()``](http://robloxdev.com/api-reference/function/HttpService/RequestAsync) function added in Version [0.343](https://anaminus.github.io/api/diff.html#v0.343) has made this project the most secure Roblox http server you can currently find as it allows authentication headers and so much more.
 
@@ -16,3 +17,7 @@ The Roblox library [``Waterbottle``](https://github.com/WelpNathan/Waterbottle) 
 
 ## Getting started
 Installation instructions
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FWelpNathan%2FWaterbottleServer.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FWelpNathan%2FWaterbottleServer?ref=badge_large)
